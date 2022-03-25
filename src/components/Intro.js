@@ -94,7 +94,7 @@ function Intro() {
             <br/><br/>
             <h6>Welcome to my portfolio.</h6>
             
-            <h5 style={{ color:"rgba(252, 246, 244, 0.6)"}}>I am frontend developer & web designer. </h5><br/>
+            <h5 style={{ color:"rgba(252, 246, 244, 0.6)"}}>I am a frontend developer & web designer. </h5><br/>
  
         </Text>
         </SubBox>
