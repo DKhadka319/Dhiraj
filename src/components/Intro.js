@@ -92,7 +92,7 @@ function Intro() {
             <h3> I'm </h3><br/>
             <h3>Dhiraj Khadka.</h3>
             <br/><br/>
-            <h6>Welcome to my portfolio.</h6>
+            <h6>Welcome to my Portfolio.</h6>
             
             <h5 style={{ color:"rgba(252, 246, 244, 0.6)"}}>I am frontend developer & web designer. </h5><br/>
  
