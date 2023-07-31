@@ -101,7 +101,7 @@ I'm a front-end developer located in Sydney .
 <br/><br/>
 I'm interested in the whole frontend stack. Like 
 trying new things and building great projects. I'm an 
-independent freelancer. I love making art and learn new things.
+independent freelancer. I love making art and learn new things.test 1
 <br/><br/>
 I believe  in developing meaningful and beautiful website.
 <a href="mailto:dhirajkhadka99@gmail.com">
