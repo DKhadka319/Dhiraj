@@ -41,13 +41,16 @@ const SocialIcons = (props) => {
         <motion.div
         initial={{transform:"scale(0)"}}
         animate={{scale:[0,1,1.5,1]}}
-        transition={{type:'spring', duration:1, delay:1.2}}
+        transition={{type:'spring', duration:1, delay:1}}
      >
+     {'' /* Github */}
             <NavLink style={{color:'inherit'}}  target="_blank"   to={{pathname:"https://github.com/DKhadka319"}}>
 
             <Github width={25} height={25} fill={props.theme === "dark" ? DarkTheme.text : DarkTheme.body } />
             </NavLink>
         </motion.div>
+
+        {'' /* Twitter */}
             <motion.div
             initial={{transform:"scale(0)"}}
             animate={{scale:[0,1,1.5,1]}}
@@ -56,6 +59,7 @@ const SocialIcons = (props) => {
                 <NavLink style={{color:'inherit'}}  target="_blank"   to={{pathname:"https://twitter.com/DhirajK15"}}>
                     <Twitter width={25} height={25} fill={props.theme === "dark" ? DarkTheme.text  : DarkTheme.body  } />
                 </NavLink>
+                {'' /* LinkedIn */}
             </motion.div>
             <motion.div
             initial={{transform:"scale(0)"}}
