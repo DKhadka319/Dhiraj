@@ -1,6 +1,37 @@
 export const Work = [
+   
+   
     {
         id:1,
+        name:"CORKSCREW CELLARS",
+        description:"This is a blog website where we can get a blog about shoes. It is built on the top of the Wodpress, with CSS, and responsive animations.",
+        tags:["react","styledComponents","react-router"],
+        
+        demo:"http://dklists.com/",
+        github:"https://github.com/codebucks27/react-sidebar"        
+    },
+
+    {
+        id:2,
+        name:"HARPER LANE",
+        description:"This is a blog website where we can get a blog about shoes. It is built on the top of the Wodpress, with CSS, and responsive animations.",
+        tags:["react","styledComponents","react-router"],
+        
+        demo:"http://dklists.com/",
+        github:"https://github.com/codebucks27/react-sidebar"        
+    },
+
+    {
+        id:3,
+        name:"FUTURO",
+        description:"This is a blog website where we can get a blog about shoes. It is built on the top of the Wodpress, with CSS, and responsive animations.",
+        tags:["react","styledComponents","react-router"],
+        
+        demo:"http://dklists.com/",
+        github:"https://github.com/codebucks27/react-sidebar"        
+    },
+    {
+        id:4,
         name:"Intense Cravings",
         description:"It is a restaurant website with ordering facilities and payment. It is built on the top of the Wodpress, with styled-components, searching and filtering functionalities, and fire animations.",
         tags:["Wordpress","sass"],
@@ -9,7 +40,7 @@ export const Work = [
         
     },
     {
-        id:2,
+        id:5,
         name:"Portfolio Website",
         description:"This is the same website you using right now which is built using Reactjs and styled components. It has really smooth animations.",
         tags:["react","react-router","styledComponent"],
@@ -19,7 +50,7 @@ export const Work = [
         
     },
     {
-        id:3,
+        id:6,
         name:"DK Star ",
         description:"This is an e-commerce website where we can get custom items. It is built on the top of the Wodpress, with CSS, and searching and filtering functionalities. ",
         tags:["Wordpress","sass","php"],
@@ -28,7 +59,7 @@ export const Work = [
         github:"https://github.com/codebucks27/devto-clone"
     },
     {
-        id:4,
+        id:7,
         name:"DK Lists",
         description:"This is a blog website where we can get a blog about shoes. It is built on the top of the Wodpress, with CSS, and responsive animations.",
         tags:["react","styledComponents","react-router"],
@@ -36,6 +67,8 @@ export const Work = [
         demo:"http://dklists.com/",
         github:"https://github.com/codebucks27/react-sidebar"        
     },
+
+   
     
   
 ] 
