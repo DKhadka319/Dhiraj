@@ -8,7 +8,7 @@ import { DarkTheme } from './Themes'
 import LogoComponents from '../subComponents/LogoComponents'
 import SocialIcons from '../subComponents/SocialIcons'
 import PowerButton from '../subComponents/PowerButton'
-
+// For this link all the data comming from 
 import {Work} from "../data/WorkData";
 import { YinYang } from './AllSvags'
 import BigTitlte from '../subComponents/BigTitlte'

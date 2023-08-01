@@ -25,6 +25,7 @@ z-index:3;
     margin:30px 0;
         
 }
+
 `
 const Line=styled(motion.span)`
 width:2px;
@@ -50,7 +51,7 @@ const SocialIcons = (props) => {
             </NavLink>
         </motion.div>
 
-        {'' /* Twitter */}
+        {'' /* LinkedIn */}
             <motion.div
             initial={{transform:"scale(0)"}}
             animate={{scale:[0,1,1.5,1]}}
@@ -59,7 +60,7 @@ const SocialIcons = (props) => {
                 <NavLink style={{color:'inherit'}}  target="_blank"   to={{pathname:"https://twitter.com/DhirajK15"}}>
                     <Twitter width={25} height={25} fill={props.theme === "dark" ? DarkTheme.text  : DarkTheme.body  } />
                 </NavLink>
-                {'' /* LinkedIn */}
+                 {'' /* LinkedIn */}
             </motion.div>
             <motion.div
             initial={{transform:"scale(0)"}}
